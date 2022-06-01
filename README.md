@@ -27,5 +27,5 @@ start the server
 
 
 ## IMPORTANT 
-Due to some error and warnings i am not be able to complete the drag and drop feature and i am trying to find the solution for these, i believe that these one feature does not impact on my selection process.
+Due to some error and warnings i am not be able to complete the drag and drop feature and i am trying to find the solution for these, i believe that these one feature does not impact on my selection process and i will wait for you positive response.
 THANK YOU
