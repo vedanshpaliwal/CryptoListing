@@ -1,0 +1,52 @@
+/* hero css */
+.hero-main{
+    width: 1100px;
+    margin: 0 auto;
+    margin-top: 26px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/* hero-card css */
+.hero-card-main{
+    height: 195px;
+    width: 309px;
+    background: rgba(0, 0, 0, 0.04);
+/* Dividers */
+
+border: 1px dashed rgba(0, 0, 0, 0.09);
+    
+}
+.hero-card-title{
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+   
+    margin-left: 33px;
+    margin-top: 36px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+}
+.hero-image{
+    margin-top  : 26px;
+    margin-right: 36px;
+    margin-left: 217px;
+}
+.hero-value{
+    margin-top: 105px;
+    font-family: 'Roboto', sans-serif;
+
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 42px;
+margin-top: 20px;
+
+color: #000000;
+
+}

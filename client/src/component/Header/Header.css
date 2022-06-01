@@ -1,0 +1,16 @@
+.header-main{
+    height: 76px;
+    background: rgba(3, 28, 71, 0.8);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+position: sticky;
+top: 0px;
+width: 100%;
+}
+.logo
+{
+    margin-left: 26px;
+    position: absolute;
+    top: 11px;
+    display: flex;
+
+}
